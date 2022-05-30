@@ -1,3 +1,2 @@
-# Secret
-The birth of a Secret
+# Secret #
 Первые шаги всегда волнительно...
